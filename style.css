@@ -1,0 +1,29 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family:pt sans;
+  margin: 2em;
+}
+body {
+ background-color: #ffe6e6; 
+  font-family:pt sans;
+  margin-right: 10em;
+  margin-left: 10em;
+}
+h1 {
+  font-style: ;
+  color: #DB7093;
+}
+
+h2 {
+  margin-top: 2em; 
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
